@@ -37,12 +37,17 @@
 ---
 
 ###  GitHub Stats
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rohit03022006&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit03022006&theme=radical" />
-</div>
+<div align="left">
+     <a href="https://github.com/rohit03022006">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit03022006&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Rohit's Streak Stats" />
+  </a>
+  <a href="https://github.com/rohit03022006">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohit03022006&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  />
+  </a>
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit03022006&layout=compact&theme=radical&langs_count=8" />
+  <a href="https://github.com/rohit03022006?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit03022006&layout=compact&theme=radical&langs_count=8&hide=html,css,scss" alt="Rohit's Top Languages" />
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit03022006&theme=redical&area=true&hide_border=true" width="100%"/>
 </div>
 
