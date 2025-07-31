@@ -18,6 +18,7 @@
 
 ---
 
+
 ### Currently Learning
 
 - **DevOps** (Advanced Kubernetes, Terraform)
@@ -31,7 +32,7 @@
 - DevOps Practices
 - Backend Architecture
 
----
+
 
 ### Languages and Tools:
 
@@ -66,7 +67,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="border-radius: 8px"/> </a> 
 </p>
 
----
+
 
 ### GitHub Stats
 
