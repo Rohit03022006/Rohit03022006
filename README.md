@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-kumar" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-kumar" style="border-radius: 8px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  style="border-radius: 8px"/>
   </a>
   <a href="https://instagram.com/_rohit_xten" target="blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_rohit_xten" style="border-radius: 8px"/>
