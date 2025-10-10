@@ -16,7 +16,7 @@
 - **System Design**
 - **Advance Backend**
 
-### 💬 Ask Me About
+### Ask Me About
 
 - MERN Stack Development
 - DevOps Practices
