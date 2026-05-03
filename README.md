@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<h3 align="left">Languages and Tools:</h3>
 
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/></a>
 
