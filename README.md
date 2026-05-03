@@ -83,7 +83,7 @@
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://owasp.org/assets/images/logo.png" width="40" height="40"/></a>
-<a href="#"><img src="https://aquasecurity.github.io/trivy/v0.18.3/imgs/logo.png" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" width="40" height="40"/></a>
+<a href="#"><img src="https://assets-eu-01.kc-usercontent.com/ef593040-b591-0198-9506-ed88b30bc023/6c029869-3710-457a-9f48-58b10b871cb6/SQ-Server_Built-in-padding_300px.svg?w=300&h=72&auto=format&fit=crop" width="40" height="40"/></a>
 <a href="#"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40" height="40"/></a>
 </p>
