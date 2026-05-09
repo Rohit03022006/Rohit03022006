@@ -45,6 +45,16 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,bash,linux,git,ansible,prometheus,grafana" />
 </p>
+<p align="center">
+
+<!-- Custom Real Icons -->
+<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="48" height="48"/>
+<img src="https://owasp.org/assets/images/logo.png" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="48" height="48"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="48" height="48"/>
+<img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="48" height="48"/>
+
+</p>
 
 ### Tools
 <p align="left">
