@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Full stack developer(MERN) & DevOps engineer from India</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/rohit-kumar-783127334?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By1kjWphlRfWOP8gMoEFPOg%3D%3D" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 15px;"/></a>
-  <a href="https://instagram.com/_rohit_xten" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 15px;"/></a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);DevOps+Engineer;Cloud+%26+Backend+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-kumar-783127334/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://instagram.com/_rohit_xten" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
@@ -22,31 +34,7 @@
 - DevOps Practices
 - Backend Architecture
 
-
-
 <h3 align="left">Languages and Tools:</h3>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,reactivex" />
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" />
-</p>
-
-### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
-
-### DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,bash,linux,git,ansible,prometheus,grafana" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,figma,postman,vim" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,postgres,redis,docker,kubernetes,terraform,aws,jenkins,linux,bash,git,github,python,java,c,figma,postman,vim&perline=10" />
 </p>
