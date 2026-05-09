@@ -11,10 +11,7 @@
   <a href="https://instagram.com/_rohit_xten" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+
 </p>
 
 ---
@@ -35,6 +32,6 @@
 - Backend Architecture
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,postgres,redis,docker,kubernetes,terraform,aws,jenkins,linux,bash,git,github,python,java,c,figma,postman,vim&perline=10" />
 </p>
