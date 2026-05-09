@@ -23,67 +23,30 @@
 - Backend Architecture
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Frontend -->
-<h4>Frontend</h4>
+### Frontend
 <p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://vitejs.dev/logo.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,reactivex" />
 </p>
 
-<!-- Backend -->
-<h4>Backend</h4>
+### Backend
 <p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" />
 </p>
 
-<!-- Database -->
-<h4>Database</h4>
+### Database
 <p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
-<!-- DevOps -->
-<h4>DevOps & Cloud</h4>
+### DevOps & Cloud
 <p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,bash,linux,git,ansible,prometheus,grafana" />
 </p>
 
-<!-- Tools -->
-<h4>Tools</h4>
+### Tools
 <p align="left">
-<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://owasp.org/assets/images/logo.png" width="40" height="40"/></a>
-<a href="#"><img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" width="40" height="40"/></a>
-<a href="#"><img src="https://assets-eu-01.kc-usercontent.com/ef593040-b591-0198-9506-ed88b30bc023/6c029869-3710-457a-9f48-58b10b871cb6/SQ-Server_Built-in-padding_300px.svg?w=300&h=72&auto=format&fit=crop" width="40" height="40"/></a>
-<a href="#"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,figma,postman,vim" />
 </p>
