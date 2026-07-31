@@ -79,11 +79,11 @@
 ###  Cloud
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" title="Helm" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=helm" title="Helm" alt="Helm" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="45" height="45"/>
 </p>
 
 </td>
