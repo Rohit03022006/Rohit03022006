@@ -15,21 +15,39 @@
 </p>
 
 ---
+<table>
+<tr>
 
-<img  align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programmer GIF" height="150" style="vertical-align: middle;"/>
+<td width="65%" valign="top">
 
-### Currently Learning
+<h3>Currently Learning</h3>
 
-- **DevOps** (Advanced Kubernetes, Terraform)
-- **Cloud Native Technologies**
-- **System Design**
-- **Advance Backend**
+<ul>
+  <li>Advanced Kubernetes</li>
+  <li>Terraform</li>
+  <li>Cloud Native Technologies</li>
+  <li>System Design</li>
+  <li>Advanced Backend</li>
+</ul>
 
-### Ask Me About
+<h3> Ask Me About</h3>
 
-- MERN Stack Development
-- DevOps Practices
-- Backend Architecture
+<ul>
+  <li>MERN Stack Development</li>
+  <li>DevOps Practices</li>
+  <li>Backend Architecture</li>
+</ul>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
+
+</td>
+
+</tr>
+</table>
 
 ##  Tech Stack
 
