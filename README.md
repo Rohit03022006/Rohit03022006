@@ -32,9 +32,6 @@
 - Backend Architecture
 
 <h3 align="left">Languages and Tools:</h3>
-### Frontend
-## Tech Stack
-
 <table>
 <tr>
 <td valign="top" width="33%">
