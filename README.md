@@ -22,17 +22,15 @@
 ###  Currently Learning
 
 -  Advanced Kubernetes
--  Cloud Native Technologies
--  System Design
--  Advanced Backend
--  Terraform
+-  Cloud Native Technologies(AWS)
+-  Data Structures and Algorithms(DSA)
+-  System Design (LLD & HLD)
 
 ### Ask Me About
 
 - MERN Stack
-- DevOps
+- DevOps + DevSecOps
 - Docker & Kubernetes
-- Cloud Computing
 - Backend Architecture
 
 </td>
