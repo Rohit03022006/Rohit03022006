@@ -22,17 +22,16 @@
 </p>
 
 ---
-
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="60%" style="padding-right: 40px;">
 
-###  Currently Learning
+### Currently Learning
 
--  Advanced Kubernetes
--  Cloud Native Technologies(AWS)
--  Data Structures and Algorithms(DSA)
--  System Design (LLD & HLD)
+- Advanced Kubernetes
+- Cloud Native Technologies (AWS)
+- Data Structures and Algorithms (DSA)
+- System Design (LLD & HLD)
 
 ### Ask Me About
 
@@ -43,7 +42,7 @@
 
 </td>
 
-<td align="center" width="40%">
+<td width="40%" style="padding-left: 40px; text-align: center;">
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="260"/>
 
@@ -64,6 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="42" title="YAML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/>
 </p>
 
 ### Frontend
@@ -88,6 +88,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express.js"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="42" title="JWT"/>
+  <img src="https://cdn.simpleicons.org/socketdotio" width="42" title="Socket.IO"/>
+
 </p>
 
 ### Database
@@ -119,9 +122,12 @@
 ### Monitoring
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42" title="Prometheus"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="42" title="Grafana"/>
-  <img src="https://skillicons.dev/icons?i=sonarqube" width="42" title="SonarQube"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="42" title="Prometheus"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="42" title="Grafana"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alertmanager.svg" width="42" title="Alertmanager"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" width="42" title="Grafana"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/loki.svg" width="42" title="Loki"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg" width="42" title="OpenTelemetry"/>
 </p>
 
 ### Tools
