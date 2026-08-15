@@ -127,9 +127,14 @@
 ### Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="42" title="Vim"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="42" title="OWASP"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trivy.svg" width="42" title="Trivy"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="42" title="SonarQube"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="42" title="GitHub Actions"/>
 </p>
 
 </td>
