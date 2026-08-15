@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);DevOps+Engineer;Cloud+%26+Backend+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
@@ -7,13 +8,16 @@
   <a href="https://www.linkedin.com/in/rohit-kumar-783127334/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
   <a href="https://instagram.com/_rohit_xten" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit03022006&label=Profile%20Views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohit03022006&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 <table>
