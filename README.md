@@ -124,8 +124,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="42" title="Prometheus"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="42" title="Grafana"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" width="42" title="Grafana"/>
-  <img src="https://cdn.simpleicons.org/loki" width="42" title="Loki"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg" width="42" title="OpenTelemetry"/>
 </p>
 
